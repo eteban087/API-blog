@@ -1,6 +1,6 @@
 # Blog Api
 
-## Descripcion del pryecto
+## Descripcion del proyecto
 
 Este proyecto es una API de un blog que permitirá a los usuarios resgistrarse,
 iniciar sesión, comentar post,ver post,subir post, se podrá subir imagenes, ir al perfil de un usuario.
